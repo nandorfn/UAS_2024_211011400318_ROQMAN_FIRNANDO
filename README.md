@@ -1,16 +1,5 @@
 # crypto_ku
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama  : Roqman Firnando
+NIM   : 211011400318
+Kelas : 06TPLM002
+[screenshot](https://ucarecdn.com/de97f764-a459-4f0b-b1ed-62b7899c4b84/-/preview/486x1000/)
